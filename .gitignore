@@ -1,0 +1,13 @@
+# Node modules
+frontend/chatapp/node_modules/
+backend/node_modules/
+
+# Environment files
+*.env
+
+# Build outputs
+frontend/build/
+backend/dist/
+
+# Misc
+.DS_Store
